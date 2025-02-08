@@ -1,0 +1,8 @@
+rgname = "test-rg"
+rglocation = "North Europe"
+nsg = "terra-nsg"
+Vnet = "Vnet1"
+subnet = "SubnetB"
+nic = "test-nic"
+terra-ip = "vm-pip"
+VM = "test-VM"
